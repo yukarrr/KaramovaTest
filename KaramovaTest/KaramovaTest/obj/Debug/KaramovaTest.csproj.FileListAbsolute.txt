@@ -1,0 +1,10 @@
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\bin\Debug\KaramovaTest.exe.config
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\bin\Debug\KaramovaTest.exe
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\bin\Debug\KaramovaTest.pdb
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\bin\Debug\KaramovaInspectorLib.dll
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\bin\Debug\KaramovaInspectorLib.pdb
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\obj\Debug\KaramovaTest.csproj.AssemblyReference.cache
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\obj\Debug\KaramovaTest.csproj.CoreCompileInputs.cache
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\obj\Debug\KaramovaTest.csproj.CopyComplete
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\obj\Debug\KaramovaTest.exe
+C:\GitHub\KaramovaTest\KaramovaTest\KaramovaTest\obj\Debug\KaramovaTest.pdb
